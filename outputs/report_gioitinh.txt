@@ -1,8 +1,0 @@
-              precision    recall  f1-score   support
-
-         Nam       0.76      0.80      0.78      1888
-          Nữ       0.77      0.72      0.74      1729
-
-    accuracy                           0.76      3617
-   macro avg       0.76      0.76      0.76      3617
-weighted avg       0.76      0.76      0.76      3617
